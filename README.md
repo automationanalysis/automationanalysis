@@ -19,8 +19,8 @@ https://github.com/automationanalysis/didactic-journey-power-automate-approval-w
 - Data Analysis  
 - Power Automate (Workflow Automation)  
 - Excel (MIS Reporting & Dashboards)  
-- SQL (Learning)  
-- Power BI (Learning)  
+- SQL (Basics)  
+- Power BI (Dashboard Creator)
 - Python (Basics)  
 
 ---
