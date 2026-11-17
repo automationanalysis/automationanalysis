@@ -12,6 +12,7 @@ Automated workflow solution using Power Automate, Excel, and Outlook to streamli
 
 🔗 Project Link:  
 https://github.com/automationanalysis/didactic-journey-power-automate-approval-workflow
+https://github.com/automationanalysis/resource-utilization-automation
 
 ---
 
